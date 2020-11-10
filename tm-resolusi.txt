@@ -2,4 +2,6 @@ TM-Resolusi
 
 flutter
 kotlin
-react
+react.js
+python
+vb.net
