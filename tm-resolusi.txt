@@ -1,7 +1,7 @@
 TM-Resolusi
 
 flutter
-kotlin
 react.js
 python
 vb.net
+codeigniter
