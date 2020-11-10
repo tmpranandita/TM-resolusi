@@ -1,0 +1,2 @@
+- membuat aplikasi chat dengan kotlin 
+- membuat ecommerce
