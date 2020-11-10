@@ -1,4 +1,5 @@
 - membuat aplikasi chat dengan kotlin 
 - membuat ecommerce
 - membuat aplikasi pendidikan
-- perlu digabungkan dengan php
+- perlu digabungkan dengan php framework
+
